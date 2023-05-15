@@ -1,1 +1,1 @@
-https://github.com/yapopo/UP.git
+https://yapopo.github.io/UP/
