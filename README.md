@@ -1,1 +1,1 @@
-https://yapopo.github.io/UPDATE/
+https://yapopo.github.io/UP/
